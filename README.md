@@ -29,4 +29,5 @@ Note - For the file in step 2, I cannot find the sources I used for the file as 
 
 # What Diffusion Looks Like
 Here is an example of how diffusion may look in a 2D space
+
 [![Diffusion In A 2D Space](https://img.youtube.com/vi/Ww4VwPqWFYc/0.jpg)](https://www.youtube.com/watch?v=Ww4VwPqWFYc "Diffusion In A 2D Space")
