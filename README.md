@@ -7,7 +7,7 @@ This process is why we can mix things gasses together and liquids together. This
 
 
 # Random Walk
-Lets take a single molecule in a 2D space. We will only look at it from  an X point of view, completely ingoring the other dimension. 
+You can [click here](https://en.wikipedia.org/wiki/Random_walk) to read more about Random walk. Lets take a single molecule in a 2D space. We will only look at it from  an X point of view, completely ingoring the other dimension. 
 If you take this molecule, what are the chances it will move in the left or right direction? 
 First answer that comes to mind is 1/3 but the actual answer is 1/5. That is because it can also move in either Y direction without moving in X plane and it can also choose not to move. 
 This random motion is caused by the inherent random energy a molecule can have. 
