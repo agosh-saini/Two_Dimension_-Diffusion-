@@ -16,8 +16,17 @@ If we look at how it functions together, we end up with the following graphs
 
 ![alt text](https://github.com/agosh-saini/Two_Dimension_Diffusion/blob/master/Random_walk/10000_molecules_after_1_movements.png?raw=true)
 ![alt text](https://github.com/agosh-saini/Two_Dimension_Diffusion/blob/master/Random_walk/10000_molecules_after_10_movements.png?raw=true)
-![alt text](https://github.com/agosh-saini/2D_Diffusion/blob/master/10000_molecules_after_100_movements.png?raw=true)
 ![alt text](https://github.com/agosh-saini/Two_Dimension_Diffusion/blob/master/Random_walk/10000_molecules_after_100_movements.png?raw=true)
 ![alt text](https://github.com/agosh-saini/Two_Dimension_Diffusion/blob/master/Random_walk/10000_molecules_after_1000_movements.png?raw=true)
 
 # Diffusion In 2D Space
+[Fick's laws of diffusion](https://www.google.com) explain how diffusion will occur in any space. An Implimentation of his equations can be foudn in [Fick's Law folder](https://github.com/agosh-saini/Two_Dimension_-Diffusion-/tree/master/Ficks_law_Diffusion). 
+If you want to run the files for your self:
+Step 1: Run the [ficks_2d_diffusion.py](https://github.com/agosh-saini/Two_Dimension_Diffusion/blob/master/Ficks_law_Diffusion/ficks_2d_diffusion.py) 
+Step 2: Run [create_video.py](https://github.com/agosh-saini/Two_Dimension_Diffusion/blob/master/Ficks_law_Diffusion/create_video.py)
+
+Note - For the file in step 2, I cannot find the sources I used for the file as I made the file a while ago and lost the file where I recorded my sources. 
+
+# What Diffusion Looks Like
+Here is an example of how diffusion may look in a 2D space
+[DOWNLOAD MP4 FILE HERE](https://github.com/agosh-saini/Two_Dimension_Diffusion/blob/master/Ficks_law_Diffusion/output.mp4?raw=true)
