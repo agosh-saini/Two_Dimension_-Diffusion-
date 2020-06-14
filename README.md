@@ -28,6 +28,6 @@ Step 2: Run [create_video.py](https://github.com/agosh-saini/Two_Dimension_Diffu
 Note - For the file in step 2, I cannot find the sources I used for the file as I made the file a while ago and lost the file where I recorded my sources. 
 
 # What Diffusion Looks Like
-Here is an example of how diffusion may look in a 2D space
+Here is an example of how diffusion may look in a 2D space (Click the image to see the video)
 
 [![Diffusion In A 2D Space](https://img.youtube.com/vi/Ww4VwPqWFYc/0.jpg)](https://www.youtube.com/watch?v=Ww4VwPqWFYc "Diffusion In A 2D Space")
